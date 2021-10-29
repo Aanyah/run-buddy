@@ -16,7 +16,7 @@ header {
   background-color: #39a6b2;
   display: flex;
   justify-content: space-between;
-  flex-wrap: wrap;a
+  flex-wrap: wrap;
 }
 
 header h1 {
@@ -25,6 +25,7 @@ header h1 {
   color: #fce138;
   margin: 0;
 }
+
 header a {
   text-decoration: none;
   color: #fce138;
